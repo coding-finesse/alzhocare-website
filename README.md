@@ -9,7 +9,7 @@ Alzhocare is a Health-Tech startup, that is focused on providing a brand new per
 <h2 align="center"> <img align="middle" src="https://user-images.githubusercontent.com/78272033/182821861-a77f2378-bfdc-42b6-83c7-cebe999f5b50.jpg" > </h2>
 
 <p align="center">
-  <strong>Our mission is revolutionalising Alzheimers and Dementia Care :</strong>
+  <strong>Our mission is revolutionalize Alzheimers and Dementia Care :</strong>
 
   <ul>
  <li>Our product provides Alzheimer's patients a new way to live their life, without extreme restrictions for their safety and health.</li>

@@ -29,8 +29,8 @@ https://user-images.githubusercontent.com/78272033/182827624-08ada947-a49c-4e47-
 
 
 
- </p>
+ </p>    </h3> 
  
- <h3>App Developement by <a href="https://github.com/ananyachauhan">Ananya</a></h3>
-   </h3> 
+ <h4>Flutter App Development Lead: <a href="https://github.com/ananyachauhan">Ananya</a><h4>
+
   
